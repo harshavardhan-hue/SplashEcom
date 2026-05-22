@@ -1,0 +1,11 @@
+node_modules/
+dist/
+allure-results/
+allure-report/
+test-results/
+playwright-report/
+.env
+.claude/
+.playwright-mcp/
+results.json
+results.xml
